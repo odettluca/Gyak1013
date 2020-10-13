@@ -1,0 +1,15 @@
+Perzsa
+Cilu
+<<<<<<< HEAD
+Mainecoon
+Burmai Szent
+Szfinx macska
+Bengáli
+Házi
+Savanna
+Kóbor
+=======
+Bengáli
+Házi
+vvvv
+>>>>>>> 46ad05a8a1bc14d7fafb2c61e8f6ecb39e6c2ebb
